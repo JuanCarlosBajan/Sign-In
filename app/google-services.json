@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155925877206",
+    "project_id": "signin-abe9f",
+    "storage_bucket": "signin-abe9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155925877206:android:00c3e9ab4bda72fd27d477",
+        "android_client_info": {
+          "package_name": "Bajan.Castro.signinlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155925877206-2obmbhb8lvn60qskml81fb750399bn61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1kWJzaZyHU7GxS69OPQUVsFymWX17sek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155925877206-2obmbhb8lvn60qskml81fb750399bn61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
